@@ -12,5 +12,5 @@ Fontes: <br>
 9: https://github.com/lauralovatoc/python-hacker-hank <br>
 10: https://github.com/diegovanelli/python_hackerHank <br>
 11: https://github.com/MTrajK/coding-problems <br>
-12: https://github.com/SamirPaulb/DSAlgo
-13: https://github.com/isquicha/exercicios-logica-python
+12: https://github.com/SamirPaulb/DSAlgo <br>
+13: https://github.com/isquicha/exercicios-logica-python <br>
